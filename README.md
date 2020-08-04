@@ -16,6 +16,6 @@ All the experiments can be found in the `inferring_soft_biometrics_from_keystrok
 If you face any problem in running this code, you can contact us at {vishaal16119, rajivratn}@iiitd.ac.in, mohit.nittrichy@gmail.com and rkumar@haverford.edu
 
 ## License
-Copyright (c) 2020 Vishaal Udandrao, Mohit Agrawal, Rajesh Kumar, Rajiv Ratn Shah.
+Copyright (c) 2020 Vishaal Udandarao, Mohit Agrawal, Rajesh Kumar, Rajiv Ratn Shah.
 
 For license information, see LICENSE or http://mit-license.org
