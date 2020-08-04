@@ -10,4 +10,3 @@ xgboost
 pymrmr
 imblearn
 torch
-mpl_toolkits
