@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Code for reproducing the results reported in the paper etitled, 
+"""Code for reproducing the results reported in the paper entitled, 
 "On the Inference of Soft Biometrics from Typing Patterns Collected in a Multi-device Environment"
 SUBMISSION: BigMM 2020
 PAPER ID: "144"
