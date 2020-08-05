@@ -15,6 +15,17 @@ All the experiments can be found in the `inferring_soft_biometrics_from_keystrok
 ## Contact
 If you face any problem in running this code, you can contact us at {vishaal16119, rajivratn}@iiitd.ac.in, mohit.nittrichy@gmail.com and rkumar@haverford.edu
 
+## Citation
+If you find this work useful, please consider citing it as:
+```
+@article{udandarao2020inference,
+  title={On the Inference of Soft Biometrics from Typing Patterns Collected in a Multi-device Environment},
+  author={Udandarao, Vishaal and Agrawal, Mohit and Kumar, Rajesh and Shah, Rajiv Ratn},
+  journal={arXiv preprint arXiv:2006.09501},
+  year={2020}
+}
+```
+
 ## License
 Copyright (c) 2020 Vishaal Udandarao, Mohit Agrawal, Rajesh Kumar, Rajiv Ratn Shah.
 
