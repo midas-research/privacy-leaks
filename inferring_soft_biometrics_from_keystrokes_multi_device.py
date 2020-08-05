@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """Code for reproducing the results reported in the paper etitled, 
-"On the Inference of Soft Biometrics from Typing PatternsCollected in a Multi-device Environment"
-SUBMISSION: Extended IJCB Second Round - New submissions
-PAPER ID: "161"
+"On the Inference of Soft Biometrics from Typing Patterns Collected in a Multi-device Environment"
+SUBMISSION: BigMM 2020
+PAPER ID: "144"
 """
 
 from google.colab import drive
